@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋  soy Julian Maranta / soyfullstack en YouTube ✨ </h1> 
+<h1 align="center">Hola 👋  soy Julian Maranta / soyfullstack en YouTube </h1> 
 
 <p align="left">
   <a href="https://www.youtube.com/channel/UCOWm85iyFimEKJPmAskbMcA" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
@@ -13,7 +13,7 @@
 <p align="left">
 🎓 PROGRAMADOR WEB FULL STACK CERTIFICADO DEL BOOTCAMP DIGITAL HOUSE
 
-🎥 CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de YouTube en base a mucho estudio 😵 y experiencia
+🎥 CREADOR DE CONTENIDO que transmite sus conocimientos a través de YouTube en base a mucho estudio y experiencia 📚
 
 💻 +6 MESES de EXPERIENCIA LABORAL en el proceso de DESARROLLO de SOFTWARE
 
