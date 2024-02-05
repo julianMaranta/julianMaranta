@@ -79,6 +79,11 @@
 </tr>
 </table>
 </div>
+<br>
+<br><br>
+<br>
+<br><br><br>
+<br><br>
 <div id="proyectos">
 <h2 >Mis Proyectos en Github 👨🏻‍💻</h2>
 
