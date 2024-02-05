@@ -78,6 +78,8 @@
   
 </tr>
 </table>
+</div>
+<div id="proyectos">
 <h2 >Mis Proyectos en Github 👨🏻‍💻</h2>
 
 <table align="left" >
