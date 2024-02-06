@@ -23,7 +23,7 @@
   </p>
 <br>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 >Tecnologías Conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
@@ -33,7 +33,7 @@
 <br>
 <!-------------------------->
 <div id="proyectos">
-<h2 >Mis Proyectos en YouTube 👨🏻‍💻</h2>
+<h2 >Mis Cursos en YouTube 👨🏻‍💻</h2>
 
 <table align="left" >
 <tr border="none">
@@ -85,7 +85,7 @@
 <br><br><br>
 <br><br>
 <div id="proyectos">
-<h2 >Mis Proyectos en Github 👨🏻‍💻</h2>
+<h2 >Mis Proyectos y Participaciones en Proyectos Empresariales en Github 👨🏻‍💻</h2>
 
 <table align="left" >
 <tr border="none">
