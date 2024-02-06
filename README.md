@@ -178,7 +178,7 @@
 <br><br><br>
 <br><br>
 <div id="proyectos">
-<h2 >Mis Proyectos y Participaciones en Proyectos Empresariales en Github 👨🏻‍💻</h2>
+<h2 >Mis Participaciones en Proyectos Empresariales en Github 👨🏻‍💻</h2>
 
 <table align="left" >
 <tr border="none">
