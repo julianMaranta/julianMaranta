@@ -179,6 +179,10 @@
 <br><br>
 <div id="proyectos">
   <br>
+<br><br>
+<br>
+<br><br><br>
+<br><br>
 <h2 >Mis Participaciones en Proyectos Empresariales en Github 👨🏻‍💻</h2>
 
 <table align="center" >
