@@ -10,13 +10,13 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 PROGRAMADOR WEB FULL STACK CERTIFICADO DEL BOOTCAMP DIGITAL HOUSE
+🎓 PROGRAMADOR WEB FULL STACK - Certificado del BootCamp Digital House.
 
-🎥 CREADOR DE CONTENIDO que transmite sus conocimientos a través de YouTube en base a mucho estudio y experiencia 📚
+🎥 CREADOR DE CONTENIDO, tengo un Canal de YouTube donde subo Cursos Completos y Gratuitos sobre distintas tecnologías en base a mucho estudio y experiencia 📚
 
-💻 +6 MESES de EXPERIENCIA LABORAL en el proceso de DESARROLLO de SOFTWARE
+💻 +6 MESES de EXPERIENCIA LABORAL en el proceso de DESARROLLO de SOFTWARE.
 
-📝 Roles en el ámbito: DESARROLLADOR WEB FULL STACK 
+📝 ROLES en el ámbito: DESARROLLADOR WEB FULL STACK. 
 
 📫 Contacto: **julianmarantaguasch@gmail.com**
 <!--Intro end-->
