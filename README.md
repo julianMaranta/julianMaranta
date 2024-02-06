@@ -12,7 +12,7 @@
 <p align="left">
 🎓 PROGRAMADOR WEB FULL STACK - Certificado del BootCamp Digital House.
 
-🎥 CREADOR DE CONTENIDO, tengo un Canal de YouTube donde subo Cursos Completos y Gratuitos sobre distintas tecnologías en base a mucho estudio y experiencia 📚
+🎥 CREADOR DE CONTENIDO: Tengo un Canal de YouTube donde subo Cursos Completos y Gratuitos sobre distintas tecnologías en base a mucho estudio y experiencia 📚
 
 💻 +6 MESES de EXPERIENCIA LABORAL en el proceso de DESARROLLO de SOFTWARE.
 
