@@ -1,10 +1,12 @@
 <h1 align="center">Hola 👋  soy Julian Maranta / soyfullstack en YouTube </h1> 
 
-<p align="left">
-  <a href="https://www.youtube.com/channel/UCOWm85iyFimEKJPmAskbMcA" target="blank"><img width="40%" align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-<a href="https://www.linkedin.com/in/julian-maranta-guasch/" target="blank"><img width="40%" align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-<a href = "mailto:julianmarantaguasch@gmail.com" target="blank"><img width="40%" align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+<div>
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCOWm85iyFimEKJPmAskbMcA" target="blank"><img width="30%" align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+<a href="https://www.linkedin.com/in/julian-maranta-guasch/" target="blank"><img width="30%" align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+<a href = "mailto:julianmarantaguasch@gmail.com" target="blank"><img width="30%" align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
   </p>
+  </div>
 <br>
 <h2>Sobre mí </h2>
 <!--Intro start-->
