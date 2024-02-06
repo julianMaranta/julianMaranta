@@ -37,7 +37,7 @@
 
 <table align="left" >
 <tr border="none">
-<div>
+<div width="100%">
   <td width="25%" align="center">
     <p align="center">
      <a href="https://www.youtube.com/channel/UCOWm85iyFimEKJPmAskbMcA" title="Go to Source">
