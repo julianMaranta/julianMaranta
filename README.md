@@ -37,6 +37,7 @@
 
 <table align="left" >
 <tr border="none">
+<div>
   <td width="25%" align="center">
     <p align="center">
      <a href="https://www.youtube.com/channel/UCOWm85iyFimEKJPmAskbMcA" title="Go to Source">
@@ -75,7 +76,8 @@
         <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
     </p>       
 </td>
-
+</div>
+<div>
    <td width="25%" align="center">
     <p align="center">
      <a href="https://www.youtube.com/watch?v=IXl2bCiQhc0&t=139s&ab_channel=SoyFullStack" title="Go to Source">
@@ -115,7 +117,8 @@
         <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
     </p>       
 </td>
-
+</div>
+<div>
    <td width="25%" align="center">
     <p align="center">
      <a href="https://www.youtube.com/watch?v=rvzKqTZn25c&t=301s&ab_channel=SoyFullStack" title="Go to Source">
@@ -145,7 +148,7 @@
         <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
     </p>       
 </td>
-  
+  </div>
 </tr>
 </table>
 </div>
