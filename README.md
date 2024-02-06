@@ -183,7 +183,7 @@
   <td width="25%" align="center">
     <p align="center">
      <a href="https://github.com/julianMaranta/ENTERPRISE-STREAMING-PLATFORM-Circular-Economy-Hot-Spot-Chile-2023-Enterprise-Project-Participation" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/julianMaranta/julianMaranta/main/assets/hotspot.jpeg"   alt="VIDEO" /></a>
+        <img align="center" width=100% src="https://raw.githubusercontent.com/julianMaranta/julianMaranta/main/assets/HOTSPOT LOGO.png"   alt="VIDEO" /></a>
       </p>
     <p align="center">
       <a href="https://github.com/julianMaranta/ENTERPRISE-STREAMING-PLATFORM-Circular-Economy-Hot-Spot-Chile-2023-Enterprise-Project-Participation" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
@@ -192,7 +192,7 @@
 <td width="25%" align="center">
     <p align="center">
      <a href="https://github.com/julianMaranta/ENTERPRISE-WEB-PAGE-Hogar-De-Cristo-Chile-2023-Enterprise-Project-Participation" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/julianMaranta/julianMaranta/main/assets/hogarcristo.jpeg"   alt="VIDEO" /></a>
+        <img align="center" width=100% src="https://raw.githubusercontent.com/julianMaranta/julianMaranta/main/assets/HOGARCRISTO LOGO.png"   alt="VIDEO" /></a>
       </p>
     <p align="center">
       <a href="https://github.com/julianMaranta/ENTERPRISE-WEB-PAGE-Hogar-De-Cristo-Chile-2023-Enterprise-Project-Participation" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
