@@ -40,7 +40,7 @@
   <td width="25%" align="center">
     <p align="center">
      <a href="https://www.youtube.com/channel/UCOWm85iyFimEKJPmAskbMcA" title="Go to Source">
-        <img align="center" width=100% src=""   alt="VIDEO" /></a>
+        <img align="center" width=100% src="https://raw.githubusercontent.com/julianMaranta/julianMaranta/main/assets/Bienvenidos.jpg"   alt="VIDEO" /></a>
       </p>
     <p align="center">
            <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
@@ -48,7 +48,7 @@
 </td>
 <td width="25%" align="center">
     <p align="center">
-     <a href="" title="Go to Source">
+     <a href="https://www.youtube.com/watch?v=bTIeIJpBnBU&t=106s&ab_channel=SoyFullStack" title="Go to Source">
         <img align="center" width=100% src="https://raw.githubusercontent.com/julianMaranta/julianMaranta/main/assets/PORTADA HTML.png"   alt="VIDEO" /></a>
       </p>
     <p align="center">
@@ -58,8 +58,8 @@
   
   <td width="25%" align="center">
     <p align="center">
-     <a href="" title="Go to Source">
-        <img align="center" width=100% src=""   alt="VIDEO" /></a>
+     <a href="https://www.youtube.com/watch?v=QmPqcVGxEnU&t=13s&ab_channel=SoyFullStack" title="Go to Source">
+        <img align="center" width=100% src="https://raw.githubusercontent.com/julianMaranta/julianMaranta/main/assets/CSS PORTADA - REHACER SVG.png"   alt="VIDEO" /></a>
       </p>
     <p align="center">
         <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
@@ -68,8 +68,78 @@
 
    <td width="25%" align="center">
     <p align="center">
-     <a href="" title="Go to Source">
-        <img align="center" width=100% src=""   alt="VIDEO" /></a>
+     <a href="https://www.youtube.com/watch?v=ZHEuGinvXko&t=34s&ab_channel=SoyFullStack" title="Go to Source">
+        <img align="center" width=100% src="https://raw.githubusercontent.com/julianMaranta/julianMaranta/main/assets/PORTADA JAVASCRIPT.png"   alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+    </p>       
+</td>
+
+   <td width="25%" align="center">
+    <p align="center">
+     <a href="https://www.youtube.com/watch?v=IXl2bCiQhc0&t=139s&ab_channel=SoyFullStack" title="Go to Source">
+        <img align="center" width=100% src="https://raw.githubusercontent.com/julianMaranta/julianMaranta/main/assets/PORTADA REACT.png"   alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+    </p>       
+</td>
+
+   <td width="25%" align="center">
+    <p align="center">
+     <a href="https://www.youtube.com/watch?v=JLVr-Zyhqkc&t=2516s&ab_channel=SoyFullStack" title="Go to Source">
+        <img align="center" width=100% src="https://raw.githubusercontent.com/julianMaranta/julianMaranta/main/assets/PORTADA VUE.png"   alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+    </p>       
+</td>
+
+   <td width="25%" align="center">
+    <p align="center">
+     <a href="https://www.youtube.com/watch?v=mdWefVBaxqU&t=124s&ab_channel=SoyFullStack" title="Go to Source">
+        <img align="center" width=100% src="https://raw.githubusercontent.com/julianMaranta/julianMaranta/main/assets/PORTADA EXPRESS.png"   alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+    </p>       
+</td>
+
+   <td width="25%" align="center">
+    <p align="center">
+     <a href="https://www.youtube.com/watch?v=xahDao0G_Bg&t=152s&ab_channel=SoyFullStack" title="Go to Source">
+        <img align="center" width=100% src="https://raw.githubusercontent.com/julianMaranta/julianMaranta/main/assets/PORTADA MYSQL.png"   alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+    </p>       
+</td>
+
+   <td width="25%" align="center">
+    <p align="center">
+     <a href="https://www.youtube.com/watch?v=rvzKqTZn25c&t=301s&ab_channel=SoyFullStack" title="Go to Source">
+        <img align="center" width=100% src="https://raw.githubusercontent.com/julianMaranta/julianMaranta/main/assets/PORTADA PHP.png"   alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+    </p>       
+</td>
+
+   <td width="25%" align="center">
+    <p align="center">
+     <a href="https://www.youtube.com/watch?v=AtQ2Atr5UWI&t=1856s&ab_channel=SoyFullStack" title="Go to Source">
+        <img align="center" width=100% src="https://raw.githubusercontent.com/julianMaranta/julianMaranta/main/assets/PORTADA LARAVEL.png"   alt="VIDEO" /></a>
+      </p>
+    <p align="center">
+        <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+    </p>       
+</td>
+
+   <td width="25%" align="center">
+    <p align="center">
+     <a href="https://www.youtube.com/watch?v=XDZ9Gqcr4c4&t=1s&ab_channel=SoyFullStack" title="Go to Source">
+        <img align="center" width=100% src="https://raw.githubusercontent.com/julianMaranta/julianMaranta/main/assets/GIT + GITHUB PORTADA.png"   alt="VIDEO" /></a>
       </p>
     <p align="center">
         <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
