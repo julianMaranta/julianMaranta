@@ -171,18 +171,14 @@
   </tr>
 
 </table>
-</div>
-<br>
-<br><br>
-<br>
-<br><br><br>
-<br><br>
-<div id="">
   <br>
 <br><br>
 <br>
 <br><br><br>
 <br><br>
+</div>
+
+<div id="proyectos">
 <h2 >Mis Participaciones en Proyectos Empresariales en Github 👨🏻‍💻</h2>
 
 <table align="center" >
