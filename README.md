@@ -184,11 +184,11 @@
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
-     <a href="https://github.com/julianMaranta/ENTERPRISE-STREAMING-PLATFORM-Circular-Economy-Hot-Spot-Chile-2023-Enterprise-Project-Participation" title="Go to Source">
+     <a href="https://github.com/julianMaranta/ENTERPRISE-INSCRIPTION-FORM-Circular-Economy-Hot-Spot-Chile-2023-Enterprise-Project-Participation" title="Go to Source">
         <img align="center" width=100% src="https://raw.githubusercontent.com/julianMaranta/julianMaranta/main/assets/HOTSPOT LOGO.png"   alt="VIDEO" /></a>
       </p>
     <p align="center">
-      <a href="https://github.com/julianMaranta/ENTERPRISE-STREAMING-PLATFORM-Circular-Economy-Hot-Spot-Chile-2023-Enterprise-Project-Participation" target="blank"><img width="40%" align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+      <a href="https://github.com/julianMaranta/ENTERPRISE-INSCRIPTION-FORM-Circular-Economy-Hot-Spot-Chile-2023-Enterprise-Project-Participation" target="blank"><img width="40%" align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>       
 </td>
     <!-------------
