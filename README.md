@@ -44,7 +44,7 @@
         </a>
       </p>
       <p align="center">
-        <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" /></a>
+        <a href="https://www.youtube.com/channel/UCOWm85iyFimEKJPmAskbMcA" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" /></a>
       </p>
     </td>
     <td width="25%" align="center">
@@ -55,7 +55,7 @@
         </a>
       </p>
       <p align="center">
-        <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" /></a>
+        <a href="https://www.youtube.com/watch?v=bTIeIJpBnBU&t=106s&ab_channel=SoyFullStack" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" /></a>
       </p>
     </td>
     <td width="25%" align="center">
@@ -66,7 +66,7 @@
         </a>
       </p>
       <p align="center">
-        <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" /></a>
+        <a href="https://www.youtube.com/watch?v=QmPqcVGxEnU&t=13s&ab_channel=SoyFullStack" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" /></a>
       </p>
     </td>
     <td width="25%" align="center">
@@ -77,7 +77,7 @@
         </a>
       </p>
       <p align="center">
-        <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" /></a>
+        <a href="https://www.youtube.com/watch?v=ZHEuGinvXko&t=34s&ab_channel=SoyFullStack" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" /></a>
       </p>
     </td>
   </tr>
@@ -91,7 +91,7 @@
         </a>
       </p>
       <p align="center">
-        <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" /></a>
+        <a href="https://www.youtube.com/watch?v=IXl2bCiQhc0&t=139s&ab_channel=SoyFullStack" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" /></a>
       </p>
     </td>
     <td width="25%" align="center">
@@ -102,7 +102,7 @@
         </a>
       </p>
       <p align="center">
-        <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" /></a>
+        <a href="https://www.youtube.com/watch?v=JLVr-Zyhqkc&t=2516s&ab_channel=SoyFullStack" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" /></a>
       </p>
     </td>
     <td width="25%" align="center">
@@ -113,7 +113,7 @@
         </a>
       </p>
       <p align="center">
-        <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" /></a>
+        <a href="https://www.youtube.com/watch?v=mdWefVBaxqU&t=124s&ab_channel=SoyFullStack" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" /></a>
       </p>
     </td>
     <td width="25%" align="center">
@@ -124,7 +124,7 @@
         </a>
       </p>
       <p align="center">
-        <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" /></a>
+        <a href="https://www.youtube.com/watch?v=xahDao0G_Bg&t=152s&ab_channel=SoyFullStack" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" /></a>
       </p>
     </td>
   </tr>
@@ -139,7 +139,7 @@
         </a>
       </p>
       <p align="center">
-        <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" /></a>
+        <a href="https://www.youtube.com/watch?v=rvzKqTZn25c&t=301s&ab_channel=SoyFullStack" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" /></a>
       </p>
     </td>
     <td width="25%" align="center">
@@ -150,7 +150,7 @@
         </a>
       </p>
       <p align="center">
-        <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" /></a>
+        <a href="https://www.youtube.com/watch?v=AtQ2Atr5UWI&t=1856s&ab_channel=SoyFullStack" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" /></a>
       </p>
     </td>
     <td width="25%" align="center">
@@ -161,7 +161,7 @@
         </a>
       </p>
       <p align="center">
-        <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" /></a>
+        <a href="https://www.youtube.com/watch?v=XDZ9Gqcr4c4&t=1s&ab_channel=SoyFullStack" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" /></a>
       </p>
     </td>
 
