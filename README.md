@@ -94,7 +94,6 @@
         <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" /></a>
       </p>
     </td>
-
     <td width="25%" align="center">
       <!-- Sixth course -->
       <p align="center">
@@ -106,7 +105,6 @@
         <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" /></a>
       </p>
     </td>
-
     <td width="25%" align="center">
       <!-- Seventh course -->
       <p align="center">
@@ -118,7 +116,6 @@
         <a href="" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" /></a>
       </p>
     </td>
-
     <td width="25%" align="center">
       <!-- Eighth course -->
       <p align="center">
