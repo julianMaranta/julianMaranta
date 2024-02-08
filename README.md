@@ -29,7 +29,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,redux,nextjs,vue,vite,babel,webpack,express,postman,nodejs,sequelize,mysql,aws,codepen,laravel,php,docker,graphql,py,django,flask,git,github,bash,powershell,vscode,heroku,linux,figma,xd,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,redux,nextjs,vue,vite,babel,webpack,express,postman,nodejs,sequelize,mysql,aws,codepen,laravel,php,docker,graphql,py,django,flask,git,github,bash,powershell,vscode,heroku,linux,figma,xd,ai,ps,unreal&perline=12" />
   </a>
 </p>
 <br>
