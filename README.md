@@ -16,7 +16,7 @@
 
 🎥 CREADOR DE CONTENIDO: Tengo un Canal de YouTube donde subo Cursos Completos y Gratuitos sobre distintas tecnologías en base a mucho estudio y experiencia 📚
 
-💻 +6 MESES de EXPERIENCIA LABORAL en el proceso de DESARROLLO de SOFTWARE.
+💻 +2 AÑOS de EXPERIENCIA LABORAL en el proceso de DESARROLLO de SOFTWARE.
 
 📝 ROLES en el ámbito: DESARROLLADOR WEB FULL STACK. 
 
