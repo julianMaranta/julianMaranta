@@ -185,7 +185,7 @@
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
-     <a href="https://github.com/julianMaranta/ENTERPRISE-INSCRIPTION-FORM-Circular-Economy-Hot-Spot-Chile-2023-Enterprise-Project-Participation" title="Go to Source">
+     <a href="https://github.com/julianMaranta/Corporate-Event-Circular-Economy-Hot-Spot-Chile-2023" title="Go to Source">
         <img align="center" width=100% src="https://raw.githubusercontent.com/julianMaranta/julianMaranta/main/assets/HOTSPOT LOGO.png"   alt="VIDEO" /></a>
       </p>
     <p align="center">
